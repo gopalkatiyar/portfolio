@@ -14,7 +14,7 @@ const Projects = () => {
           des="My Projects"
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-14">
         <ProjectsCard
           title="Food-delivery website"
           des="Developed a comprehensive food delivery application featuring a responsive frontend, backend, and an
